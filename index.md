@@ -1,5 +1,5 @@
 ---
-layout: Reverie
+layout: default
 title: FDAG Fernando Galdino
 ---
 
