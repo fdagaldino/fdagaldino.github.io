@@ -6,3 +6,24 @@
     - award: no
   summary: If you had any meaningful roles at college, feel free to write about them here
 
+- degree: Master in Business Administration - Project Management
+  uni: Uninove, Brazil
+  year: 2010 &mdash; 2012
+  awards:
+    - award: no
+  summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Bachelors in Economics
+  uni: Estácio, Brazil
+  year: 2020 &mdash; 2023
+  awards:
+    - award: no
+  summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Bachelors in Computer Science
+  uni: Unicamp, Brazil
+  year: 1997 &mdash; 2003
+  awards:
+    - award: no
+  summary: If you had any meaningful roles at college, feel free to write about them here
+
